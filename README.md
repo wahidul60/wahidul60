@@ -1,5 +1,5 @@
 ### Hi there  👋
-I'm Wahidul, a passionate web developer and CSE student. I’m currently working on improving my skills in React, PHP, and networking technologies, with a special focus on creating user-friendly, dynamic web applications. I'm also working on an IP Telephony System project and continuously experimenting with new tech and programming languages.
+I'm Wahidul, a passionate web developer and CSE student. I’m currently working on improving my skills in React, **Web Developer**, and networking technologies, with a special focus on creating user-friendly, dynamic web applications. I'm also working on an IP Telephony System project and continuously experimenting with new tech and programming languages.
 
 Feel free to explore my repositories, check out my ongoing projects, and contribute to open-source!
 
