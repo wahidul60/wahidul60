@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **PHP, Laravel, MySQL**
 - 🔭 I’m building full-stack web projects for practice and portfolio
 - 📫 How to reach me: **wahidulhassan60@gmail.com**
-- 🌐 Portfolio: [running])
+- 🌐 Portfolio: [running](facebook.com)
 
 ---
 
