@@ -12,8 +12,8 @@
 - 💻 I’m currently working on **React, Tailwind CSS & modern UI frameworks**
 - 🌱 I’m currently learning **PHP, Laravel, MySQL**
 - 🔭 I’m building full-stack web projects for practice and portfolio
-- 📫 How to reach me: **wahidulhassan60@gmail.com**
-- 🌐 Portfolio: [running](facebook.com)
+- 📫 How to reach me: **[Contact with GMAIL] (wahidulhassan60@gmail.com)**
+- 🌐 Portfolio: [Portfolio Building](facebook.com)
 
 ---
 
@@ -30,15 +30,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidul60&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidul60&theme=radical" />
 </p>
 
----
 
 ### 📫 Let's Connect!
 
