@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 💻 I’m currently working on **React, Tailwind CSS & modern UI frameworks**
-- 🌱 I’m currently learning **Node.js, Express.js, and MongoDB**
+- 🌱 I’m currently learning **PHP, Laravel, MySQL**
 - 🔭 I’m building full-stack web projects for practice and portfolio
-- 📫 How to reach me: **[your_email@example.com]**
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 How to reach me: **[wahidulhassan60@gmail.com]**
+- 🌐 Portfolio: [running])
 
 ---
 
