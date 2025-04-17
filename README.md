@@ -40,7 +40,7 @@
 ### 📫 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/wahidul-hassan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome" /></a>
 </p>
