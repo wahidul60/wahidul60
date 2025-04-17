@@ -12,8 +12,8 @@
 - 💻 I’m currently working on **React, Tailwind CSS & modern UI frameworks**
 - 🌱 I’m currently learning **PHP, Laravel, MySQL**
 - 🔭 I’m building full-stack web projects for practice and portfolio
-- 📫 How to reach me: **[Contact with GMAIL] (wahidulhassan60@gmail.com)**
-- 🌐 Portfolio: [Portfolio Building](facebook.com)
+- 📫 How to reach me: **(wahidulhassan60@gmail.com)**
+- 🌐 Portfolio: [Portfolio Development is underway](facebook.com/wahidul.hassan.1)
 
 ---
 
