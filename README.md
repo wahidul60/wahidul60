@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahidul60&show_icons=true&theme=radical" />
   <br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahidul60&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=wahidul60&theme=radical)
 </p>
 
 
