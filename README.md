@@ -19,6 +19,9 @@ I'm a passionate Frontend Developer specialized in React.js, with a creative eye
 
 ---
 
+🚀 I'm always excited to collaborate on projects where I can bring both design and development together to create seamless digital experiences.
+
+Let’s build something awesome!
 ### 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -47,6 +50,3 @@ I'm a passionate Frontend Developer specialized in React.js, with a creative eye
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=google-chrome" /></a>
 </p>
 
-🚀 I'm always excited to collaborate on projects where I can bring both design and development together to create seamless digital experiences.
-
-Let’s build something awesome!
