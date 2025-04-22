@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 I'm a passionate Frontend Developer specialized in React.js, with a creative eye backed by a strong background in Graphic Design.
-- 💻 I’m currently working on **React, Nextjs, Redux, Tailwind CSS & modern UI frameworks, **
+- 💻 I’m currently working on **React, Nextjs, Redux, Tailwind CSS & modern UI frameworks**
 - 🌱 I’m currently learning **PHP, Laravel, MySQL**
 - 🔭 I’m building full-stack web projects for practice and portfolio
 - 📫 How to reach me: **(wahidulhassan60@gmail.com)**
