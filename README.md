@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer specialized in React.js, with a creative eye
 - 💻 I’m currently working on **React (with Hooks & Context API), Next.js, Redux, JavaScript (ES6+), Tailwind CSS & modern UI frameworks**
 - 💻 For Design **Figma, Adobe Illustrator, Photoshop**
 - 💻 **Git & GitHub** for version control and collaboration
-- 🌱 I’m currently learning **PHP, Laravel, MySQL**
+- 🌱 I’m currently learning **Nodejs, MongoDB**
 - 🔭 I’m building full-stack web projects for practice and portfolio
 - 📫 How to reach me: **(wahidulhassan60@gmail.com)**
 - 🌐 Portfolio: [Portfolio Development is underway](facebook.com/wahidul.hassan.1)
