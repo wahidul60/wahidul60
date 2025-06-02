@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm WAHIDUL</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3>Sharp Code, Smooth Load</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Building+beautiful+UIs;Learning+Backend+step+by+step" alt="Typing SVG" />
